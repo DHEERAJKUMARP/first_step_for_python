@@ -19,8 +19,11 @@ These are mini-projects I've built while learning key programming concepts like 
 ## 📁 Folder Structure
 
 first_step_for_python/
+
 |-- Scientific Computing with Python/
+
 | |-- String Manipulation by Building a Cipher/
+
 | |-- Luhn Algorithm Card Validator/
 
 
